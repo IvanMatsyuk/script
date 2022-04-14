@@ -1,0 +1,31 @@
+{
+"post":[ 
+  {
+    "nameinput": "Хліб пшеничний вищого сорту",
+    "namepInput": "Мілієвський мукомольний комбінат",
+    "dateInput": "04.05.2001",
+    "nameoutletInput": "Кафе “Астра”",
+    "numberInput": "890",
+    "priceInput": "1,25",
+    "markupInput": "Так"
+  },
+  {
+    "nameinput": "Хліб житній",
+    "namepInput": "	Одеський мукомольний комбінат",
+    "dateInput": "23.07.2001",
+    "nameoutletInput": "Бар “Веста”",
+    "numberInput": "450",
+    "priceInput": "1,20",
+    "markupInput": "Так"
+  },
+  {
+    "nameinput": "Хліб житній з тміном",
+    "namepInput": "Мілієвський мукомольний комбінат",
+    "dateInput": "18.12.2001",
+    "nameoutletInput": "магазин № 21",
+    "numberInput": "2000",
+    "priceInput": "1,30",
+    "markupInput": "Так"
+  }
+]
+}
